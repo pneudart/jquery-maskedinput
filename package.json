@@ -1,5 +1,5 @@
 {
-  "name": "jquery-maskedinput",
+  "name": "jquery.maskedinput",
   "version": "1.7.0",
   "description": "",
   "main": "jquery.maskedinput.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pneudart/jquery-maskedinput.git"
+    "url": "git+https://github.com/pneudart/jquery.maskedinput.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pneudart/jquery-maskedinput/issues"
+    "url": "https://github.com/pneudart/jquery.maskedinput/issues"
   },
-  "homepage": "https://github.com/pneudart/jquery-maskedinput#readme"
+  "homepage": "https://github.com/pneudart/jquery.maskedinput#readme"
 }
